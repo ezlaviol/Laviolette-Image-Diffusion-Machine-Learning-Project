@@ -1,1 +1,0 @@
-2019-04-29T12:35:00+10:00 : expecting a cut to 89c, I believe this is built into the sp, either side of this should result in a corresponding move in the sp.

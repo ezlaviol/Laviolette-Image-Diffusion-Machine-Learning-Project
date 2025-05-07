@@ -1,3 +1,0 @@
-2018-11-20T16:37:00+11:00 : Hi Trade has gone through 145 000 shares at 23.80 valuation 3,452,406.50  status S1XT = special cross 
-
-Can anyone tell me what Special Cross > =T1 , mean ?

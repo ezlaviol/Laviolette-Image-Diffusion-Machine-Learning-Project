@@ -1,3 +1,0 @@
-2018-05-11T14:29:00+10:00 : Monday, I think?
-
-The ex-dividend date is the date after which people buying shares would not be entitled to the dividend. The ex-dividend date is usually 2 days prior to the record date in order to give the custodian time to register all new shareholders. If you buy shares prior to the ex-dividend date, you will receive the dividend.

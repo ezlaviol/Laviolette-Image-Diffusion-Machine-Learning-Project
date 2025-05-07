@@ -1,3 +1,0 @@
-2017-09-08T16:41:00+10:00 : That trade is not showing on Commsec, CXA is Chi-ex Australia as far as I can see, dunno why they'd pay $30.17 though.
-
-The other couple are just cross trades, $30.020 - $1,039,343.337 - S1 XT, $29.9583 - $78,502.300 - L2 XT.

@@ -1,1 +1,0 @@
-2020-10-27T12:46:00+11:00 : Yes, has died completely now. Get only a return of NULL now. WTF seriously.

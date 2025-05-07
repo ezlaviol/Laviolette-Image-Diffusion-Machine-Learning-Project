@@ -1,9 +1,0 @@
-2020-03-09T14:32:00+11:00 : Working on a dividend of 83 cents by 2 =$1.66 p.a. Easy way to do it is to divide 1.66 by the current SP and then multiply that by 1.4285. That will give the pre franking percentage return.
-
-Originally posted by themack:
-            ↑
-
-
-Hi @Footmax can you please explain a little bit more on the 11% return (pre-franking) cheers
-
-Expand

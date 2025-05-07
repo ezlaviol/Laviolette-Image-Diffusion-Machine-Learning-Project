@@ -1,8 +1,0 @@
-2016-05-21T14:28:00+10:00 : NAB weekly showing positive signals ex div.
-SP above EMA(50) which is also above EMA(100)
-I'm using the weekly to remove trading noise on the day traded ex-dividend.
-The weekly volume would be down on the past two bars if you remove the huge spike when it traded ex div.
-(Falling price on falling volume, shows support and therefore recent uptrend remains intact)
-Happy to hold and participate in DRP, the company is doing great following Clydesdale demerger IMO.
-
-All my opinion only, happy to hear feedback on those points.

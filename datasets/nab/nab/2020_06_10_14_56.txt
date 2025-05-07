@@ -1,1 +1,0 @@
-2020-06-10T14:56:00+10:00 : ..All depends on Surname. They are processed alphabetically.If case your name is Andrew Zhang, you are probably last to receive(Zhang). Ii case you name Zhang Andrew, you are first to receive(Andrew).

@@ -1,7 +1,0 @@
-2018-10-02T12:15:00+10:00 : (Adds details on inquiry, World Bank data) 	Oct 2 (Reuters) - The Australian Competition and Consumer Commission (ACCC) said on Tuesday it had opened an inquiry into price competition among suppliers of foreign currency conversion services and would investigate how easily potential entrants to the market could compete.  	“We will be examining why major companies in Australia, including the Big Four banks, seem to be able to consistently charge high prices,” ACCC Chair Rod Sims said.  	The World Bank said in a June 2018 report that the cost of sending money overseas from Australia was higher than both the Group of 20 nations average and the global average.  	Australia had migrant remittance outflows of about $6.36 billion in 2016, according to World Bank data.  	The way in which currency prices are presented to customers will be core to the inquiry, the ACCC said. 	The regulator said it will submit a final report to the Treasurer by May 2019.	   
-
-	<^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
-World Bank remittances data	http//bit.ly/1T1SUbL 
-World Bank remittances prices worldwide	http//bit.ly/2zTQUQD 
-
-	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^>

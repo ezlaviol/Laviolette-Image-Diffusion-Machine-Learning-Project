@@ -1,3 +1,0 @@
-2018-05-08T21:36:00+10:00 : Franking credits are simply the tax already paid by the company with the current rate 30%. (assuming fully franked shares)
-
-The calculation is Dividend / (100 -30%)= 0.99/0.7 = $1.41

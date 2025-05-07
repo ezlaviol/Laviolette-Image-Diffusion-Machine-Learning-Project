@@ -1,4 +1,0 @@
-2017-11-09T12:05:00+11:00 : Include franking to get total dividend:
-$0.99 / (1-0.3) = $1.41
-
-31.66 - 1.41 = $30.25

@@ -1,1 +1,0 @@
-2018-05-28T10:48:00+10:00 : It's a multi-billion dollar enterprise that runs 24 x 7. Of course they have backup power and UPS. They are required to do so by the banking regulator. Maybe the UPS failed after it hadn't been tested properly. There is a myriad of possible scenarios and it's probably not worth speculating without more information.

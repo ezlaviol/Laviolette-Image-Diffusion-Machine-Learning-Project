@@ -1,7 +1,0 @@
-2016-06-07T13:35:00+10:00 : Wondering if anyone can give me some insight. From what I can see there is no practical difference between these perpetual notes and the earlier convertible preference shares such as NAB CPS II as described on slide 12 of the presentation.
-
-Reading the ASX descriptions of the two instruments, they say preference shares usually convert into a fixed value of shares (face value) whereas convertible notes usually convert into a fixed number of shares. But these NAB notes convert into a fixed value of $101 rather than a fixed number, so that difference doesn't apply here.
-
-Can anyone shed light on why these are perpetual notes and the earlier ones were preference shares? Is there any difference for practical purposes?
-
-I'm also wondering why the margin rate is so much higher on these notes than the earlier issue of both notes and shares (4.95% vs 3.5% and 3.25% respectively). Is this just because the 90 day bank bill rate that forms the floating portion of the dividend is so low currently? Normally a higher interest rate would be indicative of higher risk but it doesn't seem to me that NAB is that much riskier now than it was.

@@ -1,1 +1,0 @@
-2020-04-27T20:08:00+10:00 : To do a broker to broker transfer, the name and address details have to be 100% identical on both accounts.

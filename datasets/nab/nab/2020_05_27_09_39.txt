@@ -1,1 +1,0 @@
-2020-05-27T09:39:00+10:00 : 8.3% is a fixed allocation. The rest will be scaled back on an unknown formula

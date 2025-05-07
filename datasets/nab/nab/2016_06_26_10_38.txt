@@ -1,5 +1,0 @@
-2016-06-26T10:38:00+10:00 : Dividends are not calculated on the basis of share price.
-
-Dividends  are calculated from retained earnings.
-
-If you have a problem with current and future earnings, then use that as your argument.

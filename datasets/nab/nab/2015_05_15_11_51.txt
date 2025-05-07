@@ -1,1 +1,0 @@
-2015-05-15T11:51:00+10:00 : irang the number on the letter. as expected  mailout happens on monday. what is happening is that other brokers, not mine commsec, are allowing buy/sells on a deferred basis.

@@ -1,7 +1,0 @@
-2016-04-01T03:21:00+11:00 : Your original shares you bought at 24.00 are only affected when you sell them. You bought stock on the sharemarket from someone else at $24 and at some stage you enter into another transaction when you sell them. You can sell half today and half tomorrow. The maths is simple when you take out brokerage fees, taxes and other expenses.
-
-sell price - buy price = profit/loss
-eg 26 - 24 = 2 dollar profit per share . So 1000 shares at 2 dollar profit is 2000
-eg 16 - 26 = 10 dollar loss per share. So 1000 shares at 10 dollar loss is 10000
-
-Notice how I made the loss example five times greater than the profit. This is a close to the real world example for most people who play the sharemarket and particularly those who failed year 7 maths. If you don't realise that you can lose all your money on the sharemarket you shouldn't be playing with it.

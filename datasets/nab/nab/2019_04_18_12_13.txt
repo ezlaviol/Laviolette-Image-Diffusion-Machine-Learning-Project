@@ -1,1 +1,0 @@
-2019-04-18T12:13:00+10:00 : if the div is cut and the share price falls in the same proportion then doesn't the yield stay the same ? or is that being too simplistic I'm not sure.Thats assuming you are calculating yield on market price and not purchase price as that would only be an individual metric.

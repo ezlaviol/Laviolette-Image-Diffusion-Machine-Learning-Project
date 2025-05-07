@@ -1,3 +1,0 @@
-2015-05-12T09:34:00+10:00 : Thanks guys
-But, both codes NAB and NABR show no market depth at the moment.
-We must be missing something.

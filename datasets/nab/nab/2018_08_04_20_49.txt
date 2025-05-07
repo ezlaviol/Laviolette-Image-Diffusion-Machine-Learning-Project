@@ -1,3 +1,0 @@
-2018-08-04T20:49:00+10:00 : Return is always counted after taking fee's out. Currently management fee's are around 1.5% to total fund value.
-..
-Without fee it should be much higher

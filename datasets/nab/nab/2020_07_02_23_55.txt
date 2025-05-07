@@ -1,1 +1,0 @@
-2020-07-02T23:55:00+10:00 : depends what your trading platform is. Commsec wont change your average unit price for a DRP, you will need to calculate and manually update. Commsec only update average unit costs for normal buy and sell orders. always best to run your own spreadsheet just to be sure the trading platform numbers are correct.

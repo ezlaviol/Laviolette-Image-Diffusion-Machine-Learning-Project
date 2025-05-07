@@ -1,1 +1,0 @@
-2020-04-07T22:19:00+10:00 : Definitely crashed. First it wouldn't authenticate on login.Finally got in at 10:20-10:30 ish?Put a sell order below selling price, said it went through.Check Orders and the price is the original price from last nights.so two issues was logging in and processing orders even with your pin number entered.

@@ -1,3 +1,0 @@
-2016-02-02T21:08:00+11:00 : "($1 = 0.6986 pounds) "
-
-Isn't the exchange rate around $1 = 0.46 pounds?

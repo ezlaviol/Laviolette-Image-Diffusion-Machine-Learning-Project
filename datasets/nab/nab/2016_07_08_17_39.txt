@@ -1,4 +1,0 @@
-2016-07-08T17:39:00+10:00 : Try googling NAB options ASX
->http://www.asx.com.au/asx/markets/optionPrices.do?by=underlyingCode&underlyingCode=NAB
-
-I think the NAB calls for Jun 17 are good value eg. NABZD9

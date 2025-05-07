@@ -1,3 +1,0 @@
-2016-03-25T13:19:00+11:00 : They have a price period where they take the average price for say 5-7 days to determine the price DRP shares will be issued. These dates will be disclosed in the half yearly/annual results when the dividend is announced.
-
-So say you hold 2000 shares and for simplicity sake the dividend is $1. Then it is $2000/weighted price = no of extra shares you get issued in the DRP. If the weighted price was say $28 then it'd be 2000/28 = 71.42. As a result you'd get 71 shares issued to you (on the dividend payment date) they round down to a whole number and any residual dividends are carried forward to the next period.

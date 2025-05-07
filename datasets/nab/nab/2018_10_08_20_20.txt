@@ -1,1 +1,0 @@
-2018-10-08T20:20:00+11:00 : Hi JT Sis there a good reference site associated with writing covered calls at a defined strike price? The idea of getting the dividend is appealing, I had initially planned to hold until just before nab goes ex dividend, average price is $27.45

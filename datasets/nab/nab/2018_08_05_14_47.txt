@@ -1,1 +1,0 @@
-2018-08-05T14:47:00+10:00 : Agree. That should be the way return is calculated but a lot of people quote returns without excluding or considering fees and charges. But thank you for the clarification.

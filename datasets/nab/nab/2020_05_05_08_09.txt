@@ -1,4 +1,0 @@
-2020-05-05T08:09:00+10:00 : Huh?? No!!
-The issue price will be the LOWER OF $14-15 or VWap minus 2% of 5 day price leading up 22/5/20 (current expected closing date).
-Essentially price at the moment is irrelevant, (only the 5 day Vwap leading to closure) however you will not pay MORE than $14-15 regardless of what happens with price.
-I am unsure what is exactly confusing you with this??

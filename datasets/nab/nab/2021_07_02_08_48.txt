@@ -1,1 +1,0 @@
-2021-07-02T08:48:00+10:00 : DRP issue price was 26.65, wouldn't it be better to take the cash and buy cheaper on market today as last closing price was 26.04, even if you add in the brokerage cost, still slightly cheaper?

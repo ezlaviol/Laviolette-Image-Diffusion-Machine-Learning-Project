@@ -1,1 +1,0 @@
-2015-05-07T22:20:00+10:00 : The number is 2,425, not 2,245, after "currently" and "divided by", though the results of the calculations are correct. The question is - What's the chance of brokers falling in to the trap you described being  more than 8% might be? My guess is that it would be less than 8% .
