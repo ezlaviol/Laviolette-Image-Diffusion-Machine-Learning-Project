@@ -1,0 +1,5 @@
+2016-04-02T15:42:00+11:00 : Lol, my whole post on the CBA thread had as much to do with how quickly markets are spooked or soothed as the bit I cut out which reads more like a second grade market report.
+
+Yeah, there looks like enough skittishness in the market that sub 24 feels like a reasonable possibility. Plugging the numbers into an option pricing calculator, I read the result as there being a 15% chance it will *finish* the end of April under 24, but I'm just using a rough rule of thumb for probability calculation (the delta of an option). 
+
+I don't think it tells us the probability of it being at 24 or below *any time* in the next month.

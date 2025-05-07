@@ -1,0 +1,1 @@
+2018-11-07T08:33:00+11:00 : no. Ex div date is tomorrow, so it trades ex-dividend tomorrow. Today is the last day of trading cum-dividend. Record date is more an administrative thing.

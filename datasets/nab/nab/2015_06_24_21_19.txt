@@ -1,0 +1,1 @@
+2015-06-24T21:19:00+10:00 : U must always seek alpha over beta in a short theta with little vega and gradual delta. Adjust the lemma and try not touch the gamma.

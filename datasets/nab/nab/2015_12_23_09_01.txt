@@ -1,0 +1,137 @@
+2015-12-23T09:01:00+11:00 : To .. Friends and Foe ... Merry Xmas Everyone  
+
+Our Banks , ASX  will be Green all day long ..today 
+
+
+
+
+
+NAME
+VALUE
+NET CHANGE
+% CHANGE
+1 MONTH
+1 YEAR
+TIME
+2 DAY
+
+
+
+
+1
+INDU:INDDOW JONES INDUS. AVG
+17,417.27
++165.65
++0.96%
+-2.28%
+-3.02%
+16:15:00
+  
+
+
+2
+SPX:INDS&P 500 INDEX
+2,038.97
++17.82
++0.88%
+-2.40%
+-1.90%
+16:20:00
+  
+
+
+3
+CCMP:INDNASDAQ COMPOSITE INDEX
+5,001.11
++32.19
++0.65%
+-2.03%
++4.95%
+16:46:45
+  
+
+
+4
+NYA:INDNYSE COMPOSITE INDEX
+10,112.40
++89.37
++0.89%
+-3.18%
+-7.40%
+16:31:18
+  
+
+
+5
+SPTSX:INDS&P/TSX COMPOSITE INDEX
+13,084.16
++49.78
++0.38%
+-2.60%
+-9.34%
+16:20:00
+ 
+
+
+
+
+
+
+Americas Stock Futures
+
+
+
+
+INDEX FUTURES
+FUTURE DATE
+LAST
+NET CHANGE
+OPEN
+HIGH
+LOW
+TIME
+2 DAY
+
+
+
+
+1
+DM1:INDDow Jones mini
+Mar 16
+17,381.00
++203.00
+17,199.00
+17,386.00
+17,110.00
+16:32:42
+  
+
+
+2
+ES1:INDS&P 500 mini
+Mar 16
+2,035.50
++20.50
+2,017.00
+2,036.50
+2,007.25
+16:32:43
+  
+
+
+3
+NQ1:INDNASDAQ 100 mini
+Mar 16
+4,589.75
++26.75
+4,569.00
+4,592.00
+4,541.
+ 
+ 
+
+
+
+its a Merry Xmas Rally into January .
+
+Merry Xmas .. Everyone

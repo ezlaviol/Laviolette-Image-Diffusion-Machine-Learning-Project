@@ -1,0 +1,9 @@
+2016-07-07T19:33:00+10:00 : yep valid point, but as we all know just so hard to pick the bottom
+
+as I write this most London banks up very nicely amongst so called brexit worries.
+
+I guess if an investor wants to do better than current share price, then no problem, what I do in situations like this is buy the stock via selling a put option with a monthly expiry, sell a put at say 1 dollar below current sp, bag say a 40cent premium, so now if you get exercised you've purchased the stock 1.40 below current sp levels. if you don't get exercised then still a win in my view as you probably walk away with a monthly return of some 1.5% on your investment.
+
+then hopefully repeat the process the following month if the sp is floating around these similar levels.
+
+if it rallies well too bad you still made a profit of 1.5% for just a month when the banks are offering not much more than that for an entire year.

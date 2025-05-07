@@ -1,0 +1,3 @@
+2016-01-18T18:47:00+11:00 : To save confusion $1 USD = 0.7 GBP
+$1AUD = 0.48 GBP
+Therefore prices CYBG at 175-235 pence = 3.61-4.85 AUD

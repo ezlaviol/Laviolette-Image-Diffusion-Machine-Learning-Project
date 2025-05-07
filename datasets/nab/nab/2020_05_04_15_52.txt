@@ -1,0 +1,1 @@
+2020-05-04T15:52:00+10:00 : will we pay more than $14.15 if VWAP (volume-weighted average price) more than $14.15 on last 5 trading days to 22/5/20?

@@ -1,0 +1,1 @@
+2020-05-06T10:36:00+10:00 : There is no option for over-subscription on SSP Application Form. In-fact, they only say "Your payment must correspond to one of the Application Amounts detailed below. You may choose one Application Amount only."Application Amounts: A$1,000 A$2,500 A$5,000A$7,500 A$10,000 A$15,000A$20,000 A$25,000 A$30,000

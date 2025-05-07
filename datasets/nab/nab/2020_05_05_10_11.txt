@@ -1,0 +1,1 @@
+2020-05-05T10:11:00+10:00 : Question is how will NAB apply the scale back, will it be based on: 1. 'flat % allocation, based on the total applied for' Or2. 'flat allocation capped, regardless of amount applied for' Or 3. 'Tiered allocation capping, based on total applied for'4. 'other'?

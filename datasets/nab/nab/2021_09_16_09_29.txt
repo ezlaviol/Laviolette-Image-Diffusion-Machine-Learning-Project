@@ -1,0 +1,1 @@
+2021-09-16T09:29:00+10:00 : Option expiry date on all blue chips. Price will change just before the open.

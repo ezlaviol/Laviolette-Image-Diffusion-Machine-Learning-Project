@@ -1,0 +1,1 @@
+2020-05-25T21:03:00+10:00 : I expect scale back will be based on a percentage, and that percentage will be on either a sliding scale depending on the number of shares held prior to SPP or a fixed percentage across the board.

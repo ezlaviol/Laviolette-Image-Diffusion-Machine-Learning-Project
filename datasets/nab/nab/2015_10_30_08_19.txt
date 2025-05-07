@@ -1,0 +1,13 @@
+2015-10-30T08:19:00+11:00 : Yield is 6.5% and PE is 12. That is cheap.
+
+Sub-Industry :	Diversified Banks - 40101010
+Quoted Shares On Issue :	2625764110
+Market Cap :	79980774790.6
+Net Asset Backing :	0
+Price / NTA :	0
+EPS :	252.7
+PE Ratio :	12.0538
+Historical Yearly Dividend :	198
+Historical dividend yield (%) :	6.5003
+
+Source: IRESS

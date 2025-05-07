@@ -1,0 +1,46 @@
+2022-11-09T02:35:00+11:00 : Investors expect core U.S. CPI to have eased in October 
+ 
+
+	  Rate futures price in 50-bps hike in December 
+ 
+
+	  Republicans seen taking one of the chambers of Congress 
+ 
+
+	  Divided U.S. govt good for U.S. bonds  
+ 
+
+	  Treasury to auction U.S. three-year notes 
+  	U.S. Treasury yields drifted lower on Tuesday, moving within narrow ranges, as investors awaited U.S. inflation data that could show some deceleration for October and ahead of midterm elections that may shift the current government dynamic.	 		Data on the U.S. consumer price index (CPI) is due for release on Thursday, with economists forecasting a decline in both the monthly and yearly core numbers to 0.5% and 6.5% respectively.			"There are people out there, ourselves included, that are saying that we are getting near to some good news on inflation," said Stan Shipley, fixed income strategist at Evercore ISI in New York. "Inflation expectations have actually come down."	 	Fed funds futures have priced in a 67% chance of a 50 basis-point rate hike in December, and a 33% probability of a 75-bps increase.  FEDWATCH  	Investors are also focused on Tuesday's U.S. midterm elections. 		Control of the U.S. Congress is at stake in the midterms, with Republicans favored by polls and betting markets to win control of the House of Representatives and possibly the Senate.			That potential result would lead to a split government with Democrat President Joe Biden in the White House, an outcome seen as broadly favorable to bond markets, analysts said.			"The general feeling here is that Republicans are going to have a good night," said Evercore's Shipley.			"That's good for bonds because you're going to get a stalemate in Congress and you're not going to big initiatives for social programs. That means lower yields."		Investors expect a Republican majority to curtail Biden's ability to pursue expansive fiscal policy plans. 	A Republican majority, even just in one chamber, "suggests that once inflation is under control, the onus is going to be on the Federal Reserve to offer stimulus to the economy", ING analysts said. 	"This is our base case for aggressive interest rate cuts from the second half of 2023 onwards," they added. 	The yield on 10-year Treasury notes  US10YT=RR  was down 5.7 bps at 4.157%. 	An unexpected victory for the Democrats in the House would keep the door open to ambitious left-wing policies that could further fuel inflation, with a positive effect on interest rates, Philip Marey, U.S. strategist at Rabobank, said. 	U.S. 30-year Treasury yields  US30YT=RR  were down 3.7 bps at 4.276%. 	A closely-watched part of the U.S. Treasury yield curve measuring the gap between yields on two- and 10-year Treasury notes  US2US10=RR  remained inverted at -52.8 bps.  	An inversion of this part of the yield curve typically precedes a recession. 	Later on Tuesday, the Treasury will auction $40 billion in U.S. three-year notes. 	  November 8 Tuesday 10:13AM New York / 1513 GMT 
+
+							   Price		Current   Net 
+											Yield %   Change 
+													  (bps) 
+ Three-month bills  US3MT=RR   4.095		4.1958	-0.010 
+
+
+ Six-month bills   US6MT=RR	4.475		4.6422	-0.013 
+ Two-year note  US2YT=RR	   99-115/256   4.6695	-0.056 
+ Three-year note  US3YT=RR	 99-16/256	4.5944	-0.055  Five-year note  US5YT=RR	  99-24/256	4.3292	-0.064  Seven-year note  US7YT=RR	 98-136/256   4.2453	-0.065  10-year note   US10YT=RR	  88-212/256   4.1528	-0.061  20-year bond  US20YT=RR	   85-84/256	4.5035	-0.061  30-year bond   US30YT=RR	  78-164/256   4.2749	-0.038														   DOLLAR SWAP SPREADS								 
+
+							   Last (bps)   Net		
+											Change	 
+											(bps)	  
+ U.S. 2-year dollar swap		36.00		 1.50	 
+ spread												
+
+
+ U.S. 3-year dollar swap		14.50		 0.50	 
+ spread												
+
+
+ U.S. 5-year dollar swap		 6.25		 0.50	 
+ spread												
+
+
+ U.S. 10-year dollar swap		2.00		 0.50	 
+ spread												
+
+
+ U.S. 30-year dollar swap	  -48.50		 0.00	 
+ spread

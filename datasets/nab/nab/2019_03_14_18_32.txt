@@ -1,0 +1,5 @@
+2019-03-14T18:32:00+11:00 : Maybe it really is the phone you are using. I have noticed that since I have been connected to NBN and therefore my phone is using VoIP, my cordless phone has an issue. Whenever I am required to press a number to make a menu choice (press 1 for balance, press 2 for savings or whatever) it now doesn't work. The number being pressed is ignored.
+
+However, all these functions work correctly on my mobile phone. Maybe my issue is caused by NBN or maybe my cordless phone doesn't play well over NBN and it is time for a new cordless. 
+
+I hope this helps somebody.

@@ -1,0 +1,25 @@
+2021-09-01T15:25:00+10:00 : The dollar traded near its lowest point in nearly three weeks versus major peers on Wednesday, with investors focused on a key U.S. jobs report due on Friday for clues on when the Federal Reserve might begin paring stimulus. 	The dollar index  =USD , which measures the greenback against six rivals, edged higher to 92.777 from Tuesday, when it dipped as low as 92.395 for the first time since Aug. 6. 	The U.S. currency was about 0.1% stronger at $1.18015 per euro  EUR=EBS , after touching the weakest since Aug. 5 at $1.1845 in the previous session. 	"The USD uptrend is over for the time being at least," after Federal Reserve Chair Jerome Powell successfully separated the debate over taper timing from any decisions about higher interest rates, Ray Attrill, head of foreign exchange strategy at National Australia Bank in Sydney, wrote in a client note. 	"Positive price action" in the Australian and New Zealand dollars since their Aug. 20 lows suggests "a base has now been formed," he said. 	The Aussie  AUD=D3  was flat at $0.73115 after touching a more-than-two-week high of $0.7341 on Tuesday. It fell as low as $0.71065 on Aug. 20, a level not seen since early November. 	New Zealand's kiwi  NZD=D3  slipped 0.18% to $0.7035, but remained close to its highest since Aug. 5 of $0.70685, reached the previous day. It dipped to $0.6807 on Aug. 20, also a more-than-nine-month low. 	The dollar index climbed as high as 93.734 for the first time in 9 1/2 months on Aug. 20, but has since sagged as commentary from Fed officials suggested a taper wasn't imminent, beginning with Dallas Fed President Robert Kaplan, a well-known hawk, saying he might reconsider the need for an early start to tapering if the pandemic harms the economy.   	Last Friday, Fed Chair Jerome Powell acknowledged in his speech at the Jackson Hole conference that tapering could begin this year, but added the central bank is in no hurry to raise interest rates. 	"Powell's speech didn't really provide any new information, which leaves the market waiting for nonfarm payrolls this week," with the dollar lacking any real direction, said Shinichiro Kadota, senior currency strategist at Barclays in Tokyo. 	“The market is expecting solid employment growth to have continued in August, which should help the Fed to further the discussion on tapering,” boosting the dollar, he said. 	The Fed has made a labour market recovery a condition for tapering. 	This Friday, economists predict nonfarm payrolls likely increased by 750,000 last month, after rising 943,000 in July. The unemployment rate is forecast to fall to 5.2% from 5.4%. 	Barclays is a little more bullish, anticipating 850,000 additional payrolls, and a jobless rate of 5.1%. Kadota forecasts the dollar will gain to 112 yen by year-end for the first time since February 2020. 	The dollar rose 0.23% to 110.235 yen  JPY=EBS  on Wednesday, but remained near the middle of the trading range that has prevailed since early July.	  
+
+======================================================== 
+	Currency bid prices at 0518 GMT 
+
+
+ Description	  RIC		 Last		   U.S. Close  Pct Change	 YTD Pct	 High Bid	Low Bid 
+											  Previous				   Change				  
+											  Session											
+ Euro/Dollar	   EUR=EBS	$1.1796		$1.1809	 -0.10%		 -3.45%	  +1.1812	 +1.1796 
+ Dollar/Yen		JPY=EBS	110.2300	   110.0400	+0.17%		 +6.71%	  +110.2400   +109.9900 
+ Euro/Yen		 																			 
+ Dollar/Swiss	  CHF=EBS	0.9184		 0.9153	  +0.34%		 +3.81%	  +0.9185	 +0.9161 
+ Sterling/Dollar   GBP=D3	 1.3734		 1.3756	  -0.16%		 +0.53%	  +1.3758	 +1.3732 
+ Dollar/Canadian   CAD=D3	 1.2623		 1.2614	  +0.07%		 -0.87%	  +1.2637	 +1.2609 
+ Aussie/Dollar	 AUD=D3	 0.7314		 0.7314	  -0.01%		 -4.93%	  +0.7324	 +0.7308 
+ NZ				NZD=D3	 0.7038		 0.7050	  -0.19%		 -2.02%	  +0.7055	 +0.7034 
+ Dollar/Dollar																				   
+																									  All spots  FX=  Tokyo spots  AFX=  Europe spots  EFX=   Volatilities  FXVOL=   Tokyo Forex market info from BOJ  TKYFX   
+
+	<^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+World FX rates	https://tmsnrt.rs/2RBWI5E 
+
+
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^>

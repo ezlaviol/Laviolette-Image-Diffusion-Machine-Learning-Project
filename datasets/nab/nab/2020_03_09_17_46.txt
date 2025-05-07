@@ -1,0 +1,9 @@
+2020-03-09T17:46:00+11:00 : If you have a share at $1 dividend and there is a 30% franking deducted then you receive 70 cents. Divide 70 cents by the 30 cents and you will get the answer - .4285. Multiply 70 cents by 1.4285 and you get back to $1.Hope that helps - and hope my maths is close 
+
+Originally posted by Squirrel88:
+            ↑
+
+
+Where how why is 1.4285? I am perplexed as to where this number is derived from from? is this some kind of constant? super cool thanks for sharing with mere mortals of mathematics such as squirrel. I get the 1.66 as this would be the sum of the bilateral dividend.  Having a guess that the 1.4285 has something to do with the corporate tax? rate but it's a guess.  Enlighten us oh mighty Foot dude. 
+
+Expand

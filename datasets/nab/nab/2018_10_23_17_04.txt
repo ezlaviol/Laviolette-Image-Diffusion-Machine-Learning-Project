@@ -1,0 +1,1 @@
+2018-10-23T17:04:00+11:00 : If report is bad will fall to 24 which means 23 ex dividend

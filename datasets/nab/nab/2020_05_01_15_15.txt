@@ -1,0 +1,3 @@
+2020-05-01T15:15:00+10:00 : I am running both NAB and commsec, NAB seems to be quoting around 10 minutes delay on IRESS.
+
+Real wierd

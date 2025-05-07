@@ -1,0 +1,1 @@
+2020-04-18T11:02:00+10:00 : How did you deal with the selection bias in your time series? Did Ross or someone else pick November as the starting point for a reason or is it the only set of data points to pick to refute my opinion?How did you, or whoever is behind the selection of the graph, deal with selection bias?

@@ -1,0 +1,5 @@
+2016-05-26T16:23:00+10:00 : I checked the NAB 2015 Annual Financial Report:
+
+As at 30th. September last year under "Assets" was Trading derivatives $78.38 billion and Trading securities $42.93 billion.  There are more, such as hedging derivatives.
+
+As at 30th. September last year under "Liabilities" was Trading derivatives $74.44 billion and Trading securities $42.93 billion.  There are more, such as hedging derivatives.

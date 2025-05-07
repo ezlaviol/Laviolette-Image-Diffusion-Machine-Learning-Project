@@ -1,0 +1,1 @@
+2020-06-01T11:30:00+10:00 : I BPAYed NAB.I use CommSec does anyone know if the SPP shares will be shown on ComSec automatically?thanks

@@ -1,0 +1,5 @@
+2016-09-13T12:22:00+10:00 : Does anybody have any idea how the implementation of the core banking system is going at nab?
+
+Banks have not been good at delivering these big projects and nab in particular have written off hundreds of millions of dollars as a result of not being able to delivery a usable system.  
+
+Do we need to factor in a big write-down again?

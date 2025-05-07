@@ -1,0 +1,4 @@
+2017-06-30T14:11:00+10:00 : That is a Yahoo Finance Chart that gives details of NAB's stock price historically. You can select the time-span for you to view back,...
+At the top of the chart, there is a Time Tab, and if you choose the '10y' tab, you will be able to see NAB's stock price right back till 2007, ie 10 years back from today,... NAB's price was very low then.
+On Oct 1st., 2007, it was at a high of 15.85 before the plunge due to the GFC.
+NAB reached an all-time low of 7.56 on Jan 31st., 2009.

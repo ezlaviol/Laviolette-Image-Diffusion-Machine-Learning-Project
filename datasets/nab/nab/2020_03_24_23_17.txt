@@ -1,0 +1,1 @@
+2020-03-24T23:17:00+11:00 : Can someone please explain how they calculated the $21.42 figure? Was that like a VWAP over the last month?

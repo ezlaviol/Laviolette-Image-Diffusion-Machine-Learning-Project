@@ -1,0 +1,1 @@
+2020-05-21T23:52:00+10:00 : bpay takes more than 24 hours to be received!

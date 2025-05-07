@@ -1,0 +1,1 @@
+2020-05-21T22:16:00+10:00 : Bpay is recorded as being paid as of when you put it in during banking business hours, not when they actually get the access to the funds. You can still do it up until 5pm tomorrow.

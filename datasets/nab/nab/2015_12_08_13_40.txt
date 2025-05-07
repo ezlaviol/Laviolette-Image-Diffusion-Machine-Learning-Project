@@ -1,0 +1,35 @@
+2015-12-08T13:40:00+11:00 : From what I had a quick look at you will be given a choice to have CYBG shares on the LSE of have them as CHESS Depositary Interests (CDIs). The CDI will be the default option if you do nothing.
+2000 shares or less you will be paid out for entitlement.
+I may be wrong but that is how I see it on a quick read.
+
+From one on the announcements.
+
+Demerger of 75% of CYBG shares to eligible NAB shareholders
+- ratio of 1 CYBG security for every 4 NAB shares held
+
+ Proposed sale of up to 25% of CYBG by IPO to institutional investors,
+creating additional liquidity on the LSE
+
+ Demerger and proposed LSE listing is not conditional on IPO
+
+ Proposed primary listing on LSE with ASX listing through fully fungible
+CHESS Depositary Interests (CDIs)
+
+o CDIs expected to qualify for ASX100 inclusion at Demerger
+o CYBG shares and CDIs expected to qualify for FTSE 250 inclusion in
+June 2016 re-balance
+
+ Share sale facility available for NAB shareholders with 2,000 NAB shares or
+less
+NAB seeking a tax ruling from the ATO confirming the Australian tax
+consequences of the transaction for Australian residents who hold NAB
+shares on capital account
+
+ On the basis of these discussions, subject to final ruling, we expect:
+
+o Distributions not expected to be ‘assessable dividends’
+
+o No CGT rollover relief. Shareholders selling in first 12 months from
+Demerger date will not be entitled to CGT discount
+
+o Cost base of NAB shares will be reduced by value of CYBG distribution

@@ -1,0 +1,1 @@
+2020-03-12T08:47:00+11:00 : Some platforms clearly show the trades that are being done during the day as they occur:either someone dumping shares on a buyer (red), orsomeone grabbing some shares off a seller (green).

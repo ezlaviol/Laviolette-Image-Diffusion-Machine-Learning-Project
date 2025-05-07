@@ -1,0 +1,22 @@
+2015-12-05T10:15:00+11:00 : First up the NAB 6M Daily. Just using the 6M here because it provides better resolution than the 1Y chart.
+I think it shows the EMA(50) and the EMA(100) flattening out, yes the SP is still below the EMA but as I mentioned the MACD has just crossed over and above the signal line about 10 days ago. This could be the start of an uptrend. If the MACD goes positive. I'd suggest that's even stronger.
+
+
+
+Now the NAB Weekly below.
+I've used a shorter EMA(5) which again is flattening out and note that the last bar, despite being red has closed higher than it opened. 
+Using MACD(5,35,5) i again note that the MACD has just crossed the signal line. I've used the shorter period here as it's more sensitive and better suited to a weekly chart IMO.
+SO that's why I used the EMA(5) above . Some might think EMA(5) is too short? Happy to here thoughts there, what do other people use on the weekly?
+Finally i noticed weekly volume dropping off a bit which could indicate the downtrend is weakening.
+
+
+
+
+All is my opinion and happy to hear other people's thoughts on this analysis. 
+Over the daily and the weekly charts I think there is a weak downtrend but it could be on the cusp of a trend reversal. It's hard to tell and will wait for confirmation.
+
+For those reasons I was wondering how you come up with "$26 as the chart suggests" ??? 
+I don't see a steep downtrend anywhere so disagree.
+
+I've shown my reasoning, and I suppose you've probably used different numbers/methods.
+I'm just learning this stuff so it'd help me to see what others think. Glib responses like saying one uses a stick and coin aren't particularly helpful.

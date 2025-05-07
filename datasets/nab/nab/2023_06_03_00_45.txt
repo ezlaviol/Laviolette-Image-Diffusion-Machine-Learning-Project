@@ -1,0 +1,32 @@
+2023-06-03T00:45:00+10:00 : (Updates prices, adds unemployment rate from report in paragraph 3, adds analyst quote in paragraph 7, adds comments from Fed officials in paragraphs 8 and 9, adds FX table) 	The U.S. dollar edged higher in choppy trading on Friday after May's non-farm payrolls report showed employment surged but a jump in unemployment rate capped the gains.  	The report showed that payrolls in the public and private sector increased by 339,000 in May, surging past expectations. Economists polled by Reuters expected non-farm payrolls to have increased by 190,000 in May, from April's 253,000 rise. 	Despite strong hiring, the unemployment rate rose to 3.7% from a 53-year low of 3.4% in April. 	The dollar index  =USD , which measures the U.S. currency against six others, was last up 0.193% at 103.720.  	On Thursday, the dollar index slid 0.62%, its worst day in almost a month, as the view took hold that the U.S. Federal Reserve will forgo an interest rate hike this month, which would diminish the greenback's appeal to non-U.S. buyers. 	Money markets are pricing in a roughly 29% chance of a June hike, down from near 70% earlier in the week.  FEDWATCH  	"The challenge is that we've entered the Fed's blackout period ahead of the [Federal Open Market Committee] meeting, which means it's going to be hard to see a pushback from officials or any guidance from officials after this employment report," said Marc Chandler, chief market strategist at Bannockburn Global Forex. 	Philadelphia Fed President Patrick Harker said on Thursday it was "time to at least hit the stop button for one meeting and see how it goes", referring to the Fed's upcoming June 13-14 meeting. 	A day earlier, Fed Governor Philip Jefferson said "skipping a rate hike at a coming meeting would allow the committee to see more data before making decisions about the extent of additional policy firming." 	Still, Fed officials aren't ruling out a hike later in the summer, said City Index markets strategist Fiona Cincotta. 	 "I think that expectation could still keep the dollar supported," she said. "Also, let's not forget inflation is still high." 	The U.S. Senate's passage of a bill Thursday night to suspend the debt ceiling and avert a disastrous default also removed a pillar of support for the dollar, which had paradoxically been a key beneficiary of the uncertainty because of its safe-haven status. 	The euro  EUR=EBS  was last down 0.2% at $1.07405, off its highest in around a week after a boost on Thursday from European Central Bank President Christine Lagarde, who said further policy tightening was necessary. 	The Australian dollar  AUD=D4  surged after Australia's independent wage-setting body announced that it would raise the minimum wage by 5.75% from July 1, stoking bets for another raise in rates next week. The Aussie rose by as much as 0.93% to $0.663, its strongest since May 24, and was last up 0.72% versus the greenback at $0.662. 
+
+	======================================================== 
+	Currency bid prices at 10:20AM (1420 GMT) 
+
+
+ Description	  RIC		 Last		   U.S. Close  Pct Change	 YTD Pct	   High Bid	Low Bid 
+											  Previous				   Change					
+											  Session											  
+ Dollar index	  =USD	   103.7200	   103.5400	+0.19%		 0.222%		+103.7600   +103.3800 
+ Euro/Dollar	   EUR=EBS	$1.0739		$1.0762	 -0.20%		 +0.24%		+$1.0779	+$1.0735 
+ Dollar/Yen		JPY=EBS	139.5050	   138.8150	+0.49%		 +6.39%		+139.5100   +138.6000 
+ Euro/Yen		  EURJPY=	149.81		 149.36	  +0.30%		 +6.78%		+149.8800   +149.2600 
+ Dollar/Swiss	  CHF=EBS	0.9077		 0.9055	  +0.27%		 -1.82%		+0.9085	 +0.9037 
+ Sterling/Dollar   GBP=D3	 $1.2508		$1.2526	 -0.12%		 +3.45%		+$1.2544	+$1.2495 
+ Dollar/Canadian   CAD=D3	 1.3435		 1.3449	  -0.08%		 -0.82%		+1.3450	 +1.3408 
+ Aussie/Dollar	 AUD=D3	 $0.6619		$0.6573	 +0.72%		 -2.88%		+$0.6638	+$0.6572 
+ Euro/Swiss		EURCHF=	0.9746		 0.9743	  +0.03%		 -1.51%		+0.9760	 +0.9731 
+ Euro/Sterling	 EURGBP=	0.8583		 0.8592	  -0.10%		 -2.95%		+0.8599	 +0.8579 
+ NZ				NZD=D3	 $0.6079		$0.6070	 +0.16%		 -4.24%		+$0.6111	+$0.6060 
+ Dollar/Dollar																					 
+
+
+ Dollar/Norway	 NOK=D3	 11.0080		11.0480	 -0.28%		 +12.26%	   +11.0620	+10.9640 
+ Euro/Norway	   EURNOK=	11.8235		11.8970	 -0.62%		 +12.67%	   +11.9295	+11.8038 
+ Dollar/Sweden	 SEK=	   10.7580		10.8021	 -0.70%		 +3.36%		+10.8170	+10.6850 
+ Euro/Sweden	   EURSEK=	11.5484		11.6296	 -0.70%		 +3.56%		+11.6364	+11.5097 
+	<^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+Rate outlook flip flops	https://tmsnrt.rs/3MJf3f2 
+World FX rates	https://tmsnrt.rs/2RBWI5E 
+
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^>

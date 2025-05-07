@@ -1,0 +1,1 @@
+2020-05-21T13:05:00+10:00 : Does anyone know the exact cut-off for SPP, using BPay?Based on the document, the Close of SPP is 5pm, Friday, 22nd-May.If someone pays through BPAY on Friday before 5pm, does it count?

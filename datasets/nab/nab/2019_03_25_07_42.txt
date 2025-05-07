@@ -1,0 +1,5 @@
+2019-03-25T07:42:00+11:00 : The blue line of the graph shows the % of short positions relative to shares on issue. Short positions have increased from 0.39% on Nov 1 to 1.76% as of last Monday.
+
+As shorts cover their positions the blue line will trend down 
+
+You can have a look and play around at www.shortman.com.au

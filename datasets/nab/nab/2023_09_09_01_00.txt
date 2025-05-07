@@ -1,0 +1,44 @@
+2023-09-09T01:00:00+10:00 : (Recasts, adds analyst comment, bullets, byline, NEW YORK dateline, FX table; updates prices) 
+
+	  U.S dollar index 8-week winning streak, longest since 2014 
+ 
+
+	  But dollar index weekly gains getting smaller -analyst 
+ 
+
+	  China's onshore yuan hits 2007 low 
+ 
+
+	  Canadian dollar rises vs US unit after Canadian jobs data 
+  	The dollar fell on Friday, consolidating gains racked up during the week on better-than-expected U.S. economic data, but the underlying strong trend remained amid stable consumer and labor markets, which have kept the chances of another interest rate increase this year. 	Despite Friday's fall, the greenback was headed for eight straight weeks of gains, the longest such streak since 2014. 	"The dollar is benefiting from a return of U.S. exceptionalism theme," said Vassili Serebriakov, FX strategist, at UBS in New York, referring to the country's economic outperformance compared to the rest of the world. 	"The resilient U.S. consumer and labor markets have raised questions on whether the Federal Reserve needs to raise rates further," he added. 	China's onshore yuan, on the other hand, ended its domestic session at its weakest since 2007, as it battles capital outflow pressures and a widening yield gap with major economies. 	In late morning trading, the U.S. dollar index  =USD , which measures the greenback against six major peers, was last down 0.2% at 104.84. It hit a six-month peak of 105.15 the previous session. The index so far this week was up 0.6%. 	That said, Serebriakov said that while eight weeks are an unusually long stretch of dollar strength, the currency's gains are getting smaller every week. 	"The market is quite long dollars already and the incremental upside has been small. So I think the market is having a hard time pushing the dollar significantly higher," he added.  	The euro  EUR=EBS , the largest component in the dollar index, was on track for eight straight weeks of losses and down 0.3% on the week. It was last up 0.4% on the day though, having fallen to a three-month low on Thursday. 	Data out this week showed the U.S. services sector unexpectedly gained steam in August and that jobless claims last week hit their lowest since February. In the euro zone, however, industrial production in Germany, Europe's largest economy, fell by slightly more than expected in July. 	The chances of a rate hike by the Fed at the November meeting was still at more than 40%, although the market expects the U.S. central bank to hold interest rates steady later this month. 	Sterling  GBP=D3  edged away from Thursday's three-month low and last bought at $1.2498, up 0.2%, though was still set to clock a weekly loss of more than 0.8%. 	The Canadian dollar strengthened against the greenback after the Canada created 39,900 jobs last month, compared with a median forecast for a gain of 15,000. The unemployment rate remained at 5.5%. The U.S. dollar was last down 0.4% at $1.3625  CAD=D3 .	  	IN THE DOLDRUMS	 The onshore yuan  CNY=CFXS  opened at 7.3400 per dollar on Friday and touched its weakest since December 2007 at 7.3510, while its offshore counterpart  CNH=D3  sank to a 10-month low of 7.3665 per dollar. 	China's currency has depreciated steadily since February as the faltering post-pandemic economic recovery and widening yield gap with other economies, particularly the United States, affected capital flows and trade. 	The onshore yuan has fallen roughly 6% against the dollar so far this year and has become one of the worst-performing Asian currencies alongside its offshore counterpart. 	The yuan's rapid decline has prompted authorities to step in to slow the pace of its depreciation.	 The struggling yen  JPY=EBS  was also in focus. The Japanese unit steadied at 147.39 per dollar but remained on the weaker side of the key 145 level that prompted intervention by Japanese authorities last year. 	Japanese Finance Minister Shunichi Suzuki said on Friday rapid currency moves were undesirable and that authorities wouldn't rule out any options against excessive swings, in a fresh warning to investors trying to sell the yen. 
+
+======================================================== 
+	Currency bid prices at 10:44AM (1444 GMT) 
+
+
+ Description	  RIC		 Last		   U.S. Close  Pct Change	 YTD Pct	   High Bid	Low Bid 
+											  Previous				   Change					
+											  Session											  
+ Dollar index	  =USD	   104.8500	   105.0500	-0.17%		 1.314%		+105.0700   +104.6600 
+ Euro/Dollar	   EUR=EBS	$1.0719		$1.0696	 +0.22%		 +0.04%		+$1.0744	+$1.0694 
+ Dollar/Yen		JPY=EBS	147.5550	   147.2950	+0.17%		 +12.53%	   +147.6950   +146.6000 
+ Euro/Yen		  EURJPY=	158.17		 157.55	  +0.39%		 +12.74%	   +158.3900   +157.0100 
+ Dollar/Swiss	  CHF=EBS	0.8912		 0.8929	  -0.18%		 -3.61%		+0.8928	 +0.8895 
+ Sterling/Dollar   GBP=D3	 $1.2486		$1.2475	 +0.09%		 +3.25%		+$1.2514	+$1.2467 
+ Dollar/Canadian   CAD=D3	 1.3624		 1.3686	  -0.44%		 +0.57%		+1.3689	 +1.3610 
+ Aussie/Dollar	 AUD=D3	 $0.6393		$0.6377	 +0.27%		 -6.21%		+$0.6414	+$0.6368 
+ Euro/Swiss		EURCHF=	0.9553		 0.9548	  +0.05%		 -3.46%		+0.9564	 +0.9536 
+ Euro/Sterling	 EURGBP=	0.8583		 0.8574	  +0.10%		 -2.95%		+0.8587	 +0.8569 
+ NZ				NZD=D3	 $0.5905		$0.5876	 +0.52%		 -6.98%		+$0.5918	+$0.5874 
+ Dollar/Dollar																					 
+
+
+ Dollar/Norway	 NOK=D3	 10.6570		10.7070	 -0.62%		 +8.43%		+10.7080	+10.6380 
+ Euro/Norway	   EURNOK=	11.4276		11.4524	 -0.22%		 +8.90%		+11.4646	+11.4059 
+ Dollar/Sweden	 SEK=	   11.0939		11.1397	 -0.21%		 +6.59%		+11.1506	+11.0619 
+ Euro/Sweden	   EURSEK=	11.8920		11.9165	 -0.21%		 +6.66%		+11.9305	+11.8787 
+	<^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+World FX rates	https://tmsnrt.rs/2RBWI5E 
+DXY 080923	https://tmsnrt.rs/3sHgRyF DXY v2	https://tmsnrt.rs/45Hto3P 
+
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^>
